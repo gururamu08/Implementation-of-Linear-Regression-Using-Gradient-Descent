@@ -113,6 +113,10 @@ Cost function using Gradient Descent Graph
 
 ![image](https://user-images.githubusercontent.com/118707009/230005620-18cbe693-0f6c-44ba-8dd3-f7c36fd5d2bb.png)
 
+Profit Prediction Graph
+
+![Screenshot 2023-04-05 124556](https://user-images.githubusercontent.com/118707009/230008601-1747acb6-da97-4b82-8932-7a2cb09f0520.png)
+
 
 
 Profit for the Population 35,000
